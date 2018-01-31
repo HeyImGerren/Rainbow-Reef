@@ -1,0 +1,24 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XH H | A G | P A P | G A | H H X
+XS S |   G | P   P | G   | R B X
+XB R | Y G | P W P | G Y | R B X
+XB R | Y G | P W P | G Y | R B X
+XB R | Y G | P W P | G Y | R B X
+XB R | Y G | P W P | G Y | R B X
+XB R | Y S | P W P | S Y | R B X
+XB R | Y G | P W P | G Y | R B X
+XB R | Y G | P W P | G Y | R B X
+XB R | S P | P W P | G S | R B X
+XB R | Y W | P W P | G Y | R B X
+XS S | Y G |       |     | R B X
+X                              X
+X                              X
+X                              X
+X                              X
+X                              X
+X                              X
+X                              X
+X                              X
+X                              X
+X                              X
+X                              X
